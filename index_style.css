@@ -1,29 +1,29 @@
-    nav ul {
-      height: 200px;
-      width: 18%;
-    }
+nav ul {
+    height: 200px;
+    width: 18%;
+}
 
-    nav ul {
-      overflow: hidden;
-      overflow-y: scroll;
-    }
+nav ul {
+    overflow: hidden;
+    overflow-y: scroll;
+}
 
-    .banner {
-      background-image: url(https://wiki.teamfortress.com/w/images/3/36/Medic_Ubersaw.jpg);
-      background-repeat: no-repeat;
-      background-position: center -150px;
-      border-radius: 10px;
-      box-shadow: 1px 1px 3px black;
-    }
+.banner {
+    background-image: url(https://wiki.teamfortress.com/w/images/3/36/Medic_Ubersaw.jpg);
+    background-repeat: no-repeat;
+    background-position: center -150px;
+    border-radius: 10px;
+    box-shadow: 1px 1px 3px black;
+}
 
-    h1 {
-      line-height: 0px;
-    }
+h1 {
+    line-height: 0px;
+}
 
-    body {
-      text-shadow: 2px 2px 3px black;
-      font-family: 'Anek Latin', sans-serif;
-      color: white;
-      background-image: radial-gradient(circle, rgba(0, 116, 157, 1) 0%, rgba(148, 187, 233, 1) 100%);
-      background-attachment: fixed;
-    }
+body {
+    text-shadow: 2px 2px 3px black;
+    font-family: 'Anek Latin', sans-serif;
+    color: white;
+    background-image: radial-gradient(circle, rgba(0, 116, 157, 1) 0%, rgba(148, 187, 233, 1) 100%);
+    background-attachment: fixed;
+}

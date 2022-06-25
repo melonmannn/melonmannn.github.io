@@ -1,2 +1,2 @@
 # melonmannn.github.io
-A Team Fortress 2 Repository
+A TF2 repository, which mostly consists of mods

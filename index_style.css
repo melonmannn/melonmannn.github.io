@@ -23,6 +23,7 @@ h1 {
 body {
     margin-right: auto;
     margin-left: auto;
+    width: 100%;
     max-width: 800px;
     text-shadow: 2px 2px 3px black;
     font-family: 'Anek Latin', sans-serif;

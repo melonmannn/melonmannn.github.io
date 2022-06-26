@@ -31,17 +31,3 @@ body {
     background-image: radial-gradient(circle, rgba(0, 116, 157, 1) 0%, rgba(148, 187, 233, 1) 100%);
     background-attachment: fixed;
 }
-
-/*I know this isn't allowed but it looks horrible*/
-#disqus_thread {
-     position: relative;
-}
-#disqus_thread:after {
-     content: "";
-     display: block;
-     height: 55px;
-     width: 100%;
-     position: absolute;
-     bottom: 0;
-     background: white;
-}

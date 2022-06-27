@@ -46,7 +46,7 @@
   .bg-image {
     filter: blur(8px);
     -webkit-filter: blur(8px);
-    background-image: url('misc/background.gif');
+    background-image: url('https://i.ytimg.com/vi/z8crH4zBPbk/maxresdefault.jpg');
     background-color: #ef9849;
     height: 100vh;
 
